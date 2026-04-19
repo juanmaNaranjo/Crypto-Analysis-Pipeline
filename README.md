@@ -1,11 +1,5 @@
 # Crypto Analysis Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-API-green)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
-[![Status](https://img.shields.io/badge/Status-Active-success)]()
-
 ---
 
 ## Description
